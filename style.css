@@ -18,7 +18,7 @@ body {
   transform: translate(-50%, -50%);
   background: hsl(0, 0%, 100%);
   padding: 16px;
-  width: 18rem;
+  width: 16rem;
   border-radius: 15px;
   box-shadow: 9px 11px 0px -4px rgba(0, 0, 0, 1);
   -webkit-box-shadow: 9px 11px 0px -4px rgba(0, 0, 0, 1);
@@ -40,7 +40,7 @@ main h1 {
   padding: 4px 10px;
   border-radius: 5px;
   font-size: 0.8rem;
-  margin: 10px 0;
+  margin: 5px 0;
   font-weight: 800;
 }
 main h2 {
@@ -50,7 +50,7 @@ main h2 {
 }
 
 main h3 {
-  margin: 15px 0;
+  margin: 10px 0;
 }
 h3:hover {
   color: hsl(47, 88%, 63%);
@@ -64,7 +64,7 @@ h3:hover {
 footer {
   display: flex;
   align-items: center;
-  margin: 20px 0 7px 0;
+  margin: 10px 0 7px 0;
 }
 footer img {
   width: 25px;
